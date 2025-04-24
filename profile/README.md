@@ -1,4 +1,4 @@
-# Fantasy Series Models.
+# Fantasy AIGC Family
 
 * [FantasyTalking](https://github.com/Fantasy-AMAP/fantasy-talking): Realistic Talking Portrait Generation via Coherent Motion Synthesis
 * [FantasyID](https://github.com/Fantasy-AMAP/fantasy-id): Face Knowledge Enhanced ID-Preserving Video Generation
