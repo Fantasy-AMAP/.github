@@ -4,6 +4,7 @@
 * [FantasyID](https://github.com/Fantasy-AMAP/fantasy-id): Face Knowledge Enhanced ID-Preserving Video Generation
 
 ## 🔥🔥🔥 News!!
+* Apr 28, 2025: 👋 We release the inference code and model weights of FantasyTalking.
 * Apr 24, 2025: 👋 We release the inference code and model weights of FantasyID.
 * Apr 14, 2025: 👨‍💻 We’re in the final stages of preparing FantasyID and FantasyTalking for the release.
 
