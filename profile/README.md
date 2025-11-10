@@ -1,14 +1,71 @@
 # Fantasy AIGC Family
 
-* [FantasyPortrait](https://github.com/Fantasy-AMAP/fantasy-portrait): Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers
-* [FantasyTalking](https://github.com/Fantasy-AMAP/fantasy-talking): Realistic Talking Portrait Generation via Coherent Motion Synthesis
-* [FantasyID](https://github.com/Fantasy-AMAP/fantasy-id): Face Knowledge Enhanced ID-Preserving Video Generation
+Fantasy AIGC Family is an open-source initiative exploring Human-centric AI, World Modeling, and Human-World Interaction, aiming to bridge perception, understanding, and generation in the real and digital worlds.
 
 ## 🔥🔥🔥 News!!
-* August 12, 2025: 👋 We release the inference code and model weights of FantasyPortrait.
-* Apr 28, 2025: 👋 We release the inference code and model weights of FantasyTalking.
-* Apr 24, 2025: 👋 We release the inference code and model weights of FantasyID.
-* Apr 14, 2025: 👨‍💻 We’re in the final stages of preparing FantasyID and FantasyTalking for the release.
+* 🎉 Nov, 2025: FantasyTalking2 and FantasyHSI are accepted by AAAI 2026.
+* 👋 Aug, 2025: We release the inference code and model weights of FantasyPortrait.
+* 🎉 Jul, 2025: FantasyTalking is accepted by ACM MM 2025.
+* 👋 Apr, 2025: We release the inference code and model weights of FantasyTalking, FantasyID.
+
+## ✨✨✨ Members
+
+### FantasyTalking: Realistic Talking Portrait Generation via Coherent Motion Synthesis
+
+[![Project](https://img.shields.io/badge/🌐%20%20Project-FantasyTalking-blue.svg)](https://fantasy-amap.github.io/fantasy-talking/)
+[![Conference](https://img.shields.io/badge/%F0%9F%8F%9B%20%20Conference-ACM%20MM%202025-green.svg)](https://dl.acm.org/doi/10.1145/3746027.3755217)
+[![arXiv](https://img.shields.io/badge/Arxiv-2504.04842-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2504.04842)
+[![GitHub](https://img.shields.io/badge/Code-GitHub-181717.svg?logo=GitHub)](https://github.com/Fantasy-AMAP/fantasy-talking)
+![GitHub Stars](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-talking)
+[![HuggingFace Model](https://img.shields.io/badge/🤗-HuggingFace-FFD21E.svg)](https://huggingface.co/acvlab/FantasyTalking)
+[![HuggingFace Space](https://img.shields.io/badge/🤗-HuggingFace%20Space-FFD21E.svg)](https://huggingface.co/spaces/acvlab/FantasyTalking)
+[![ModelScope](https://img.shields.io/badge/👾-ModelScope-604DF4.svg)](https://modelscope.cn/models/amap_cvlab/FantasyTalking)
+
+The first Wan-based high-fidelity audio-driven avatar system that synchronizes facial expressions, lip motion, and body gestures in dynamic scenes through dual-stage audio-visual alignment and controllable motion modulation.
+<br><br>
+
+### 🗣️ FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation
+
+[![Project](https://img.shields.io/badge/🌐%20%20Project-FantasyTalking2-blue.svg)](https://fantasy-amap.github.io/fantasy-talking2/)
+[![Conference](https://img.shields.io/badge/%F0%9F%8F%9B%20%20Conference-AAAI%202026-green.svg)](https://doi.org/10.48550/arXiv.2508.11255)
+[![arXiv](https://img.shields.io/badge/Arxiv-2508.11255v1-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.11255v1)
+[![GitHub](https://img.shields.io/badge/Code%20%28Comming%20Soon%29-GitHub-181717.svg?logo=GitHub)](https://github.com/Fantasy-AMAP/fantasy-talking2)
+
+A novel Timestep-Layer Adaptive Multi-Expert Preference Optimization (TLPO) method enhances the quality of audio-driven avatar in three dimensions: lip-sync, motion naturalness, and visual quality.
+<br><br>
+
+### 🗿 FantasyHSI: Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework
+
+[![Project](https://img.shields.io/badge/🌐%20%20Project-FantasyHSI-blue.svg)](https://fantasy-amap.github.io/fantasy-hsi/)
+[![Conference](https://img.shields.io/badge/%F0%9F%8F%9B%20%20Conference-AAAI%202026-green.svg)](https://doi.org/10.48550/arXiv.2509.01232)
+[![arXiv](https://img.shields.io/badge/Arxiv-2509.01232-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2509.01232)
+[![GitHub](https://img.shields.io/badge/Code%20%28Comming%20Soon%29-GitHub-181717.svg?logo=GitHub)](https://github.com/Fantasy-AMAP/fantasy-hsi)
+
+A graph-based multi-agent framework that grounds video generation within 3D world dynamics, enabling digital humans to perceive, plan, and act autonomously, thus serving as the technical bridge that links human modeling to world modeling through unified perception–action reasoning.
+<br><br>
+
+
+### 🤡 FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers
+
+[![Project](https://img.shields.io/badge/🌐%20%20Project-FantasyPortrait-blue.svg)](https://fantasy-amap.github.io/fantasy-portrait/)
+[![arXiv](https://img.shields.io/badge/Arxiv-2507.12956-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2507.12956)
+[![GitHub](https://img.shields.io/badge/Code-GitHub-181717.svg?logo=GitHub)](https://github.com/Fantasy-AMAP/fantasy-portrait)
+![GitHub Stars](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-portrait)
+
+A novel expression-driven video-generation method that pairs emotion-enhanced learning with masked cross-attention, enabling the creation of high-quality, richly expressive animations for both single and multi-portrait scenarios.
+<br><br>
+
+### 🆔 FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation
+
+[![Project](https://img.shields.io/badge/🌐%20%20Project-FantasyID-blue.svg)](https://fantasy-amap.github.io/fantasy-id/)
+[![arXiv](https://img.shields.io/badge/Arxiv-2502.13995-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2502.13995)
+[![GitHub](https://img.shields.io/badge/Code-GitHub-181717.svg?logo=GitHub)](https://github.com/Fantasy-AMAP/fantasy-id)
+![GitHub Stars](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-id)
+[![HuggingFace Model](https://img.shields.io/badge/🤗-HuggingFace-FFD21E.svg)](https://huggingface.co/acvlab/FantasyID)
+[![ModelScope](https://img.shields.io/badge/👾-ModelScope-604DF4.svg)](https://modelscope.cn/models/amap_cvlab/FantasyID)
+
+A tuning-free text-to-video model that leverages 3D facial priors, multi-view augmentation, and layer-aware guidance injection to deliver dynamic, identity-preserving video generation.
+<br><br>
 
 ## 🌟🌟🌟 Our wishes.
 1. **Giving Back to the Community**: In our daily work, we benefit immensely from the resources, expertise, and support of the open source community, and we aim to give back by making our own projects open source.
