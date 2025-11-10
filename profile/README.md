@@ -55,6 +55,15 @@ A graph-based multi-agent framework that grounds video generation within 3D worl
 A novel expression-driven video-generation method that pairs emotion-enhanced learning with masked cross-attention, enabling the creation of high-quality, richly expressive animations for both single and multi-portrait scenarios.
 <br><br>
 
+### 🌏 FantasyWorld: Geometry-Consistent World Modeling via Unified Video and 3D Prediction
+
+[![Project](https://img.shields.io/badge/🌐%20%20Project-FantasyWorld-blue.svg)](https://fantasy-amap.github.io/fantasy-world/)
+[![arXiv](https://img.shields.io/badge/Arxiv-2509.21657-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2509.21657)
+[![GitHub](https://img.shields.io/badge/Code%20%28Comming%20Soon%29-GitHub-181717.svg?logo=GitHub)](https://github.com/Fantasy-AMAP/fantasy-world)
+
+A unified world model integrating video priors and geometric grounding for synthesizing explorable and geometrically consistent 3D scenes.
+<br><br>
+
 ### 🆔 FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation
 
 [![Project](https://img.shields.io/badge/🌐%20%20Project-FantasyID-blue.svg)](https://fantasy-amap.github.io/fantasy-id/)
