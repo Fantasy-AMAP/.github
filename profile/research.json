@@ -1,0 +1,32 @@
+{
+  "title": "More Research",
+  "items": [
+    {
+      "name": "FantasyWorld",
+      "desc": "Geometry constrained world model",
+      "url": "https://fantasy-amap.github.io/fantasy-world/",
+      "tag": "World Model"
+    },
+    {
+      "name": "FantasyTalking",
+      "desc": "Coherent motion talking portrait",
+      "url": "https://fantasy-amap.github.io/fantasy-talking/",
+      "tag": "Avatar"
+    },
+    {
+      "name": "FantasyTalking2",
+      "url": "https://fantasy-amap.github.io/fantasy-talking2/",
+      "tag": "Avatar"
+    },
+    {
+      "name": "FantasyID",
+      "url": "https://fantasy-amap.github.io/fantasy-id/",
+      "tag": "Avatar"
+    },
+    {
+      "name": "FantasyHSI",
+      "url": "https://fantasy-amap.github.io/fantasy-hsi/",
+      "tag": "Interaction"
+    },
+  ]
+}
