@@ -126,7 +126,7 @@ nav {
 .project-desc { color: var(--text-muted); font-size: 1rem; margin-bottom: 1.5rem; line-height: 1.6; }
 
 /* --- News --- */
-.news-section { background: rgba(255, 255, 255, 0.02); border-radius: 20px; padding: 2rem; border: 1px solid var(--glass-border); }
+.news-section { background: rgba(255, 255, 255, 0.02); border-radius: 20px; padding: 2rem; border: 1px solid var(--glass-border); margin-bottom: 3rem; }
 .news-item { display: flex; gap: 1.5rem; padding: 1rem 0; border-bottom: 1px solid rgba(255, 255, 255, 0.05); }
 .news-item:last-child { border-bottom: none; }
 .news-date { min-width: 100px; font-family: var(--font-heading); color: var(--accent-secondary); font-weight: 600; }
