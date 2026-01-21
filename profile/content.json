@@ -79,7 +79,7 @@
         "title": "FantasyTalking2",
         "intro": "A novel Timestep-Layer Adaptive Multi-Expert Preference Optimization (TLPO) method enhances the quality of audio-driven avatar in three dimensions: lip-sync, motion naturalness, and visual quality.",
         "intro_zh": "一种新颖的“时间步-网络层”自适应多专家偏好优化(TLPO)方法，在口型一致、动作自然、视觉效果三个维度上提升了音频驱动数字人动画的质量。",
-        "video_url": "https://youtu.be/embed/XJAP9SsXdPg",
+        "video_url": "https://www.youtube.com/embed/XJAP9SsXdPg",
         "project": {
             "id": "FantasyTalking2",
             "url": "https://fantasy-amap.github.io/fantasy-talking2/"
@@ -101,7 +101,7 @@
         "title": "FantasyPortrait",
         "intro": "A novel expression-driven video-generation method that pairs emotion-enhanced learning with masked cross-attention, enabling the creation of high-quality, richly expressive animations for both single and multi-portrait scenarios.",
         "intro_zh": "一种全新的表情驱动视频生成方法，将情绪增强学习与掩码交叉注意力相结合，可在单人或多人肖像场景中生成高质量且富有表现力的动画。",
-        "video_url": "https://youtu.be/embed/cgbjvqiv0sw",
+        "video_url": "https://www.youtube.com/embed/cgbjvqiv0sw",
         "project": {
             "id": "FantasyPortrait",
             "url": "https://fantasy-amap.github.io/fantasy-portrait/"
@@ -141,7 +141,7 @@
         "title": "FantasyID",
         "intro": "A tuning-free text-to-video model that leverages 3D facial priors, multi-view augmentation, and layer-aware guidance injection to deliver dynamic, identity-preserving video generation.",
         "intro_zh": "以3D面部先验、多视角增强以及层感知注入的提升运动场景下的ID保持视频生成框架。",
-        "video_url": "https://youtu.be/embed/_7Mo6TrXTZs",
+        "video_url": "https://www.youtube.com/embed/_7Mo6TrXTZs",
         "project": {
             "id": "FantasyID",
             "url": "https://fantasy-amap.github.io/fantasy-id/"
