@@ -1,0 +1,53 @@
+{
+    "en": {
+        "title": "Fantasy AIGC Family",
+        "subtitle": "Unifying Human, World, and Interaction with Generative AI",
+        "nav": {
+            "home": "Home",
+            "projects": "Projects",
+            "news": "News",
+            "lang_btn": "中文"
+        },
+        "overview": {
+            "title": "Overview",
+            "content": "<p>Fantasy AIGC Family is built on <strong><a href='https://www.wan-ai.co/'>Wan</a></strong> as a unified video generation foundation, radiating into spatial intelligence, world modeling, embodied intelligence, and AI creativity through a single strong generative core, and forming a tri unified family of models and system interfaces across <strong>Human</strong>, <strong>World</strong>, and <strong>Interaction</strong>: the Human axis consolidates controllable expression and consistent representations for trustworthy avatars, the World axis consolidates explorable scene representations with verifiable consistency for usable world models, and the Interaction axis consolidates Action driven closed loop control and coordination mechanisms for scalable interactive systems, so all three share representations, data, and engineering pipelines and evolve as a capability flywheel with continuous feedback.</p>"
+        },
+        "news": {
+            "title": "Latest News & Milestones",
+            "items": [
+                "📢 <strong>Jan 2026</strong> – We released the training and inference code and model weights of <a href='https://fantasy-amap.github.io/fantasy-vln/'><strong>FantasyVLN</strong></a>.",
+                "🏆 <strong>Dec 2025</strong> - <a href='https://fantasy-amap.github.io/fantasy-world/'><strong>FantasyWorld</strong></a> ranked <strong>1st</strong> on the <a href='https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard'><strong>WorldScore</strong></a> Leaderboard (by <strong>Stanford Prof. Fei-Fei Li's Team</strong>), validating our approach against global state-of-the-art models.",
+                "🏛 <strong>Nov 2025</strong> – Two papers from our family, <a href='https://fantasy-amap.github.io/fantasy-talking2/'><strong>FantasyTalking2</strong></a> and <a href='https://fantasy-amap.github.io/fantasy-hsi/'><strong>FantasyHSI</strong></a>, have been accepted to <strong>AAAI 2026</strong>.",
+                "🏛 <strong>Nov 2025</strong> – Two papers from our family, <a href='https://fantasy-amap.github.io/fantasy-talking2/'><strong>FantasyTalking2</strong></a> and <a href='https://fantasy-amap.github.io/fantasy-hsi/'><strong>FantasyHSI</strong></a>, have been accepted to <strong>AAAI 2026</strong>.",
+                "🏛 <strong>Jul 2025</strong> – <a href='https://fantasy-amap.github.io/fantasy-talking/'><strong>FantasyTalking</strong></a> is accepted by <strong>ACM MM 2025</strong>.",
+                "📢 <strong>Apr 2025</strong> – We released the inference code and model weights of <a href='https://fantasy-amap.github.io/fantasy-talking/'><strong>FantasyTalking</strong></a> and <a href='https://fantasy-amap.github.io/fantasy-id/'><strong>FantasyID</strong></a>."
+            ]
+        },
+        "footer": "© 2026 Fantasy AIGC Team"
+    },
+    "zh": {
+        "title": "Fantasy AIGC Family",
+        "subtitle": "以生成式 AI 统一“人-世界-交互”的新一代范式",
+        "nav": {
+            "home": "首页",
+            "projects": "系列工作",
+            "news": "动态",
+            "lang_btn": "English"
+        },
+        "overview": {
+            "title": "总体架构",
+            "content": "<p>Fantasy AIGC Family 以<a href='https://www.wan-ai.co/'>通义万相</a>视频生成模型为统一基座，在同一个强视频生成内核上向空间智能、世界模型、具身智能与 AI 创意等技术领域辐射，构建覆盖<strong>人</strong>、<strong>世界</strong>、<strong>交互</strong>三大维度的三位一体系列模型与系统接口：在人维度沉淀可控表达与一致性表征以支撑可信数字人，在世界维度沉淀可探索的场景表征与可验证一致性以支撑可用世界模型，在交互维度沉淀以 Action 驱动的闭环控制与协同机制以支撑可扩展的交互系统，使三类能力共享表示、共享数据与共享工程管线，并形成可回流、可持续进化的能力飞轮。</p>"
+        },
+        "news": {
+            "title": "最新动态与里程碑",
+            "items": [
+                "📢 <strong>2026年1月</strong> – 我们正式开源了 <a href='https://fantasy-amap.github.io/fantasy-vln/'><strong>FantasyVLN</strong></a> 的训练和推理代码及模型权重。",
+                "🏆 <strong>2025年12月</strong> - <a href='https://fantasy-amap.github.io/fantasy-world/'><strong>FantasyWorld</strong></a> 在<strong>斯坦福李飞飞教授团队</strong>发布的 <a href='https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard'><strong>WorldScore</strong></a> 评测中斩获<strong>第一名</strong>，验证了我们的技术路线。",
+                "🏛 <strong>2025年11月</strong> – 我们的两篇工作 <a href='https://fantasy-amap.github.io/fantasy-talking2/'><strong>FantasyTalking2</strong></a> 和 <a href='https://fantasy-amap.github.io/fantasy-hsi/'><strong>FantasyHSI</strong></a> 被 <strong>AAAI 2026</strong> 接收。",
+                "🏛 <strong>2025年7月</strong> – <a href='https://fantasy-amap.github.io/fantasy-talking/'><strong>FantasyTalking</strong></a> 被 <strong>ACM MM 2025</strong> 接收。",
+                "📢 <strong>2025年4月</strong> – 我们正式开源了 <a href='https://fantasy-amap.github.io/fantasy-talking/'><strong>FantasyTalking</strong></a> 和 <a href='https://fantasy-amap.github.io/fantasy-id/'><strong>FantasyID</strong></a> 的推理代码及模型权重。"
+            ]
+        },
+        "footer": "© 2026 Fantasy AIGC Team"
+    }
+}

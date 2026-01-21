@@ -1,0 +1,165 @@
+[
+    {
+        "id": "fantasy_vln",
+        "title": "FantasyVLN",
+        "intro": "A unified multimodal Chain-of-Thought (CoT) reasoning framework that enables efficient and precise navigation based on natural language instructions and visual observations.",
+        "intro_zh": "一个统一的多模态链式思维推理框架，基于自然语言指令和视觉观察，实现高效且精确的导航。",
+        "video_url": "https://fantasy-amap.github.io/fantasy-vln/assets/FantasyVLN-demo.mp4",
+        "project": {
+            "id": "FantasyVLN",
+            "url": "https://fantasy-amap.github.io/fantasy-vln/"
+        },
+        "arxiv": {
+            "id": "2601.13976"
+        },
+        "github": {
+            "repo": "Fantasy-AMAP/fantasy-vln",
+            "stars": true
+        },
+        "huggingface": {
+            "repo": "acvlab/FantasyVLN",
+            "model": true
+        },
+        "modelscope": {
+            "repo": "amap_cvlab/FantasyVLN",
+            "model": true
+        }
+    },
+    {
+        "id": "fantasy_world",
+        "title": "FantasyWorld",
+        "intro": "Corresponds to the \"Worlds\" dimension. A unified world model integrating video priors and geometric grounding for synthesizing explorable and geometrically consistent 3D scenes. It emphasizes spatiotemporal consistency driven by Action and serves as a verifiable structural anchor for spatial intelligence.",
+        "intro_zh": "对应\"世界（Worlds）\"维度。一个统一的世界模型，集成了视频先验和几何基础，用于合成可探索且几何一致的3D场景。它强调Action驱动下的时空一致性，并作为空间智能与几何一致性的可验证结构锚点。",
+        "video_url": "https://www.youtube.com/embed/_gLKZL5ytEo",
+        "project": {
+            "id": "FantasyWorld",
+            "url": "https://fantasy-amap.github.io/fantasy-world/"
+        },
+        "arxiv": {
+            "id": "2509.21657"
+        },
+        "github": {
+            "repo": "Fantasy-AMAP/fantasy-world",
+            "not_finished": true
+        }
+    },
+    {
+        "id": "fantasy_talking",
+        "title": "FantasyTalking",
+        "intro": "The first Wan-based high-fidelity audio-driven avatar system that synchronizes facial expressions, lip motion, and body gestures in dynamic scenes through dual-stage audio-visual alignment and controllable motion modulation.",
+        "intro_zh": "首个基于 Wan 的高保真音频驱动虚拟人系统，通过双阶段音视对齐与可控运动调制，实现动态场景下面部表情、唇动与身体姿态的精准同步。",
+        "video_url": "https://www.youtube.com/embed/L8iBGuuJKlE",
+        "project": {
+            "id": "FantasyTalking",
+            "url": "https://fantasy-amap.github.io/fantasy-talking/"
+        },
+        "arxiv": {
+            "id": "2504.04842"
+        },
+        "publish": {
+            "id": "ACM MM 2025",
+            "url": "https://dl.acm.org/doi/10.1145/3746027.3755217"
+        },
+        "github": {
+            "repo": "Fantasy-AMAP/fantasy-talking",
+            "stars": true
+        },
+        "huggingface": {
+            "repo": "acvlab/FantasyTalking",
+            "model": true,
+            "space": true
+        },
+        "modelscope": {
+            "repo": "amap_cvlab/FantasyTalking",
+            "model": true
+        }
+    },
+    {
+        "id": "fantasy_talking2",
+        "title": "FantasyTalking2",
+        "intro": "A novel Timestep-Layer Adaptive Multi-Expert Preference Optimization (TLPO) method enhances the quality of audio-driven avatar in three dimensions: lip-sync, motion naturalness, and visual quality.",
+        "intro_zh": "一种新颖的“时间步-网络层”自适应多专家偏好优化(TLPO)方法，在口型一致、动作自然、视觉效果三个维度上提升了音频驱动数字人动画的质量。",
+        "video_url": "https://youtu.be/embed/XJAP9SsXdPg",
+        "project": {
+            "id": "FantasyTalking2",
+            "url": "https://fantasy-amap.github.io/fantasy-talking2/"
+        },
+        "arxiv": {
+            "id": "2508.11255v1"
+        },
+        "publish": {
+            "id": "AAAI 2026",
+            "url": "https://doi.org/10.48550/arXiv.2508.11255"
+        },
+        "github": {
+            "repo": "Fantasy-AMAP/fantasy-talking2",
+            "not_finished": true
+        }
+    },
+    {
+        "id": "fantasy_portrait",
+        "title": "FantasyPortrait",
+        "intro": "A novel expression-driven video-generation method that pairs emotion-enhanced learning with masked cross-attention, enabling the creation of high-quality, richly expressive animations for both single and multi-portrait scenarios.",
+        "intro_zh": "一种全新的表情驱动视频生成方法，将情绪增强学习与掩码交叉注意力相结合，可在单人或多人肖像场景中生成高质量且富有表现力的动画。",
+        "video_url": "https://youtu.be/embed/cgbjvqiv0sw",
+        "project": {
+            "id": "FantasyPortrait",
+            "url": "https://fantasy-amap.github.io/fantasy-portrait/"
+        },
+        "arxiv": {
+            "id": "2507.12956"
+        },
+        "github": {
+            "repo": "Fantasy-AMAP/fantasy-portrait",
+            "stars": true
+        }
+    },
+    {
+        "id": "fantasy_hsi",
+        "title": "FantasyHSI",
+        "intro": "Corresponds to the \"Interaction\" dimension. A graph-based multi-agent framework that grounds video generation within 3D world dynamics. It unifies the action space with a broader interaction loop, transforming video generation from a content endpoint into a control channel for interactive systems.",
+        "intro_zh": "面向\"人与世界交互\"的一种基于图结构的多智能体框架，将视频生成与三维世界动态相融合。它面向更广义的交互闭环与动作空间统一，使视频生成从内容终点转为交互系统的控制通道。",
+        "video_url": "https://fantasy-amap.github.io/fantasy-hsi/assets/first_video_audio.mp4",
+        "project": {
+            "id": "FantasyHSI",
+            "url": "https://fantasy-amap.github.io/fantasy-hsi/"
+        },
+        "arxiv": {
+            "id": "2509.01232"
+        },
+        "publish": {
+            "id": "AAAI 2026",
+            "url": "https://doi.org/10.48550/arXiv.2509.01232"
+        },
+        "github": {
+            "repo": "Fantasy-AMAP/fantasy-hsi",
+            "not_finished": true
+        }
+    },
+    {
+        "id": "fantasy_id",
+        "title": "FantasyID",
+        "intro": "A tuning-free text-to-video model that leverages 3D facial priors, multi-view augmentation, and layer-aware guidance injection to deliver dynamic, identity-preserving video generation.",
+        "intro_zh": "以3D面部先验、多视角增强以及层感知注入的提升运动场景下的ID保持视频生成框架。",
+        "video_url": "https://youtu.be/embed/_7Mo6TrXTZs",
+        "project": {
+            "id": "FantasyID",
+            "url": "https://fantasy-amap.github.io/fantasy-id/"
+        },
+        "arxiv": {
+            "id": "2502.13995"
+        },
+        "github": {
+            "repo": "Fantasy-AMAP/fantasy-id",
+            "stars": true
+        },
+        "huggingface": {
+            "repo": "acvlab/FantasyID",
+            "model": true
+        },
+        "modelscope": {
+            "repo": "amap_cvlab/FantasyID",
+            "model": true
+        }
+    }
+]
