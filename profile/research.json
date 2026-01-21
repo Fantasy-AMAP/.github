@@ -27,6 +27,11 @@
       "name": "FantasyHSI",
       "url": "https://fantasy-amap.github.io/fantasy-hsi/",
       "tag": "Interaction"
+    },
+    {
+      "name": "FantasyVLN",
+      "url": "https://fantasy-amap.github.io/fantasy-vln",
+      "tag": "Interaction"
     }
   ]
 }
