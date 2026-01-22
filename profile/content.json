@@ -2,8 +2,8 @@
     {
         "id": "fantasy_vln",
         "title": "FantasyVLN",
-        "intro": "A unified multimodal Chain-of-Thought (CoT) reasoning framework that enables efficient and precise navigation based on natural language instructions and visual observations.",
-        "intro_zh": "一个统一的多模态链式思维推理框架，基于自然语言指令和视觉观察，实现高效且精确的导航。",
+        "intro": "A unified multimodal Chain-of-Thought (CoT) reasoning framework that internalizes the inference capabilities of world models into the VLN architecture, enabling efficient and precise navigation based on natural language instructions and visual observations.",
+        "intro_zh": "一个统一的多模态链式思维推理框架，通过将世界模型的推演能力内化到 VLN 架构中，基于自然语言指令和视觉观察，实现高效且精确的导航。",
         "video_url": "https://fantasy-amap.github.io/fantasy-vln/assets/FantasyVLN-demo.mp4",
         "project": {
             "id": "FantasyVLN",
