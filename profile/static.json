@@ -15,6 +15,7 @@
         "news": {
             "title": "Latest News & Milestones",
             "items": [
+                "🏛 <strong>Jan 2026</strong> – <a href='https://fantasy-amap.github.io/fantasy-world/'><strong>FantasyWorld</strong></a> is accepted by ICLR 2026.",
                 "📢 <strong>Jan 2026</strong> – We released the training and inference code and model weights of <a href='https://fantasy-amap.github.io/fantasy-vln/'><strong>FantasyVLN</strong></a>.",
                 "🏆 <strong>Dec 2025</strong> - <a href='https://fantasy-amap.github.io/fantasy-world/'><strong>FantasyWorld</strong></a> ranked <strong>1st</strong> on the <a href='https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard'><strong>WorldScore</strong></a> Leaderboard (by <strong>Stanford Prof. Fei-Fei Li's Team</strong>), validating our approach against global state-of-the-art models.",
                 "🏛 <strong>Nov 2025</strong> – Two papers from our family, <a href='https://fantasy-amap.github.io/fantasy-talking2/'><strong>FantasyTalking2</strong></a> and <a href='https://fantasy-amap.github.io/fantasy-hsi/'><strong>FantasyHSI</strong></a>, have been accepted to <strong>AAAI 2026</strong>.",

@@ -38,6 +38,10 @@
         "arxiv": {
             "id": "2509.21657"
         },
+        "publish": {
+            "id": "ICLR 2026",
+            "url": ""
+        },
         "github": {
             "repo": "Fantasy-AMAP/fantasy-world",
             "not_finished": true
