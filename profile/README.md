@@ -3,6 +3,8 @@
 Fantasy AIGC Family is an open-source initiative exploring Human-centric AI, World Modeling, and Human-World Interaction, aiming to bridge perception, understanding, and generation in the real and digital worlds.
 
 ## 🔥🔥🔥 News!!
+* 🏛 **Jan 2026** – [FantasyVLN](https://fantasy-amap.github.io/fantasy-vln/) is accepted by CVPR 2026.
+* 🏛 **Jan 2026** – [FantasyWorld](https://fantasy-amap.github.io/fantasy-world/) is accepted by ICLR 2026.
 * 📢 **Jan 2026** – We released the training and inference code and model weights of [FantasyVLN](https://fantasy-amap.github.io/fantasy-vln/).
 * 🏆 **Dec 2025** - [FantasyWorld](https://fantasy-amap.github.io/fantasy-world/) ranked **1st** on the [WorldScore](https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard) Leaderboard (by **Stanford Prof. Fei-Fei Li's Team**), validating our approach against global state-of-the-art models.
 * 🏛 **Nov 2025** – Two papers from our family, [FantasyTalking2](https://fantasy-amap.github.io/fantasy-talking2/) and [FantasyHSI](https://fantasy-amap.github.io/fantasy-hsi/), have been accepted to **AAAI 2026**.
@@ -21,11 +23,12 @@ Fantasy AIGC Family is an open-source initiative exploring Human-centric AI, Wor
 [![HuggingFace Model](https://img.shields.io/badge/🤗-HuggingFace-FFD21E.svg)](https://huggingface.co/acvlab/FantasyVLN)
 [![ModelScope](https://img.shields.io/badge/👾-ModelScope-604DF4.svg)](https://modelscope.cn/models/amap_cvlab/FantasyVLN)
 
-A unified multimodal Chain-of-Thought (CoT) reasoning framework that enables efficient and precise navigation based on natural language instructions and visual observations.
+A unified multimodal Chain-of-Thought (CoT) reasoning framework that internalizes the inference capabilities of world models into the VLN architecture, enabling efficient and precise navigation based on natural language instructions and visual observations.
 <br><br>
 
 ### FantasyWorld
 
+[![Conference](https://img.shields.io/badge/%F0%9F%8F%9B%20%20Conference-ICLR%202026-green.svg)]()
 [![Project](https://img.shields.io/badge/🌐%20%20Project-FantasyWorld-blue.svg)](https://fantasy-amap.github.io/fantasy-world/)
 [![arXiv](https://img.shields.io/badge/Arxiv-2509.21657-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2509.21657)
 [![GitHub](https://img.shields.io/badge/Code%20%28Comming%20Soon%29-GitHub-181717.svg?logo=GitHub)](https://github.com/Fantasy-AMAP/fantasy-world)

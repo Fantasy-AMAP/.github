@@ -15,6 +15,7 @@
         "news": {
             "title": "Latest News & Milestones",
             "items": [
+                "🏛 <strong>Jan 2026</strong> – <a href='https://fantasy-amap.github.io/fantasy-vln/'><strong>FantasyVLN</strong></a> is accepted by CVPR 2026.",
                 "🏛 <strong>Jan 2026</strong> – <a href='https://fantasy-amap.github.io/fantasy-world/'><strong>FantasyWorld</strong></a> is accepted by ICLR 2026.",
                 "📢 <strong>Jan 2026</strong> – We released the training and inference code and model weights of <a href='https://fantasy-amap.github.io/fantasy-vln/'><strong>FantasyVLN</strong></a>.",
                 "🏆 <strong>Dec 2025</strong> - <a href='https://fantasy-amap.github.io/fantasy-world/'><strong>FantasyWorld</strong></a> ranked <strong>1st</strong> on the <a href='https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard'><strong>WorldScore</strong></a> Leaderboard (by <strong>Stanford Prof. Fei-Fei Li's Team</strong>), validating our approach against global state-of-the-art models.",
@@ -42,6 +43,7 @@
         "news": {
             "title": "最新动态与里程碑",
             "items": [
+                "📢 <strong>2026年2月</strong> – <a href='https://fantasy-amap.github.io/fantasy-vln/'><strong>FantasyVLN</strong></a> 正式被 CVPR 2026 收录",
                 "📢 <strong>2026年1月</strong> – 我们正式开源了 <a href='https://fantasy-amap.github.io/fantasy-vln/'><strong>FantasyVLN</strong></a> 的训练和推理代码及模型权重。",
                 "🏆 <strong>2025年12月</strong> - <a href='https://fantasy-amap.github.io/fantasy-world/'><strong>FantasyWorld</strong></a> 在<strong>斯坦福李飞飞教授团队</strong>发布的 <a href='https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard'><strong>WorldScore</strong></a> 评测中斩获<strong>第一名</strong>，验证了我们的技术路线。",
                 "🏛 <strong>2025年11月</strong> – 我们的两篇工作 <a href='https://fantasy-amap.github.io/fantasy-talking2/'><strong>FantasyTalking2</strong></a> 和 <a href='https://fantasy-amap.github.io/fantasy-hsi/'><strong>FantasyHSI</strong></a> 被 <strong>AAAI 2026</strong> 接收。",
