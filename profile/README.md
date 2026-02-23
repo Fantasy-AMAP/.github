@@ -17,12 +17,13 @@ Fantasy AIGC Family is an open-source initiative exploring Human-centric AI, Wor
 
 ### FantasyVLN
 
+[![Conference](https://img.shields.io/badge/%F0%9F%8F%9B%20%20Conference-CVPR%202026-green.svg)]()
 [![Project](https://img.shields.io/badge/🌐%20%20Project-FantasyVLN-blue.svg)](https://fantasy-amap.github.io/fantasy-vln/)
 [![arXiv](https://img.shields.io/badge/Arxiv-2601.13976-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2601.13976)
 [![GitHub](https://img.shields.io/badge/Code-GitHub-181717.svg?logo=GitHub)](https://github.com/Fantasy-AMAP/fantasy-vln)
 ![GitHub Stars](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-vln)
-[![HuggingFace Model](https://img.shields.io/badge/🤗-HuggingFace-FFD21E.svg)](https://huggingface.co/acvlab/FantasyVLN)
-[![ModelScope](https://img.shields.io/badge/👾-ModelScope-604DF4.svg)](https://modelscope.cn/models/amap_cvlab/FantasyVLN)
+[![HuggingFace Model](https://img.shields.io/badge/🤗%20HuggingFace-Model-FFD21E.svg)](https://huggingface.co/acvlab/FantasyVLN)
+[![ModelScope](https://img.shields.io/badge/👾%20ModelScope-Model-604DF4.svg)](https://modelscope.cn/models/amap_cvlab/FantasyVLN)
 
 A unified multimodal Chain-of-Thought (CoT) reasoning framework that internalizes the inference capabilities of world models into the VLN architecture, enabling efficient and precise navigation based on natural language instructions and visual observations.
 <br><br>
@@ -32,7 +33,12 @@ A unified multimodal Chain-of-Thought (CoT) reasoning framework that internalize
 [![Conference](https://img.shields.io/badge/%F0%9F%8F%9B%20%20Conference-ICLR%202026-green.svg)]()
 [![Project](https://img.shields.io/badge/🌐%20%20Project-FantasyWorld-blue.svg)](https://fantasy-amap.github.io/fantasy-world/)
 [![arXiv](https://img.shields.io/badge/Arxiv-2509.21657-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2509.21657)
-[![GitHub](https://img.shields.io/badge/Code%20%28Comming%20Soon%29-GitHub-181717.svg?logo=GitHub)](https://github.com/Fantasy-AMAP/fantasy-world)
+[![GitHub](https://img.shields.io/badge/Code-GitHub-181717.svg?logo=GitHub)](https://github.com/Fantasy-AMAP/fantasy-world)
+![GitHub Stars](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-world)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Wan2.1-FFD21E)](https://huggingface.co/acvlab/FantasyWorld-Wan2.1-I2V-14B-480P)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Wan2.2-FFD21E)](https://huggingface.co/acvlab/FantasyWorld-Wan2.2-Fun-A14B-Control-Camera)
+[![ModelScope](https://img.shields.io/badge/👾%20ModelScope-Wan2.1-624AFF)](https://modelscope.cn/amap_cvlab/FantasyWorld-Wan2.1-I2V-14B-480P)
+[![ModelScope](https://img.shields.io/badge/👾%20ModelScope-Wan2.2-624AFF)](https://modelscope.cn/amap_cvlab/FantasyWorld-Wan2.2-Fun-A14B-Control-Camera)
 
 Corresponds to the "Worlds" dimension. A unified world model integrating video priors and geometric grounding for synthesizing explorable and geometrically consistent 3D scenes. It emphasizes spatiotemporal consistency driven by Action and serves as a verifiable structural anchor for spatial intelligence.
 <br><br>
@@ -44,8 +50,8 @@ Corresponds to the "Worlds" dimension. A unified world model integrating video p
 [![arXiv](https://img.shields.io/badge/Arxiv-2504.04842-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2504.04842)
 [![GitHub](https://img.shields.io/badge/Code-GitHub-181717.svg?logo=GitHub)](https://github.com/Fantasy-AMAP/fantasy-talking)
 ![GitHub Stars](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-talking)
-[![HuggingFace Model](https://img.shields.io/badge/🤗-HuggingFace-FFD21E.svg)](https://huggingface.co/acvlab/FantasyTalking)
-[![HuggingFace Space](https://img.shields.io/badge/🤗-HuggingFace%20Space-FFD21E.svg)](https://huggingface.co/spaces/acvlab/FantasyTalking)
+[![HuggingFace Model](https://img.shields.io/badge/🤗%20HuggingFace-Model-FFD21E.svg)](https://huggingface.co/acvlab/FantasyTalking)
+[![HuggingFace Space](https://img.shields.io/badge/🤗%20HuggingFace-Demo-FFD21E.svg)](https://huggingface.co/spaces/acvlab/FantasyTalking)
 [![ModelScope](https://img.shields.io/badge/👾-ModelScope-604DF4.svg)](https://modelscope.cn/models/amap_cvlab/FantasyTalking)
 
 The first Wan-based high-fidelity audio-driven avatar system that synchronizes facial expressions, lip motion, and body gestures in dynamic scenes through dual-stage audio-visual alignment and controllable motion modulation.
