@@ -3,7 +3,8 @@
 Fantasy AIGC Family is an open-source initiative exploring Human-centric AI, World Modeling, and Human-World Interaction, aiming to bridge perception, understanding, and generation in the real and digital worlds.
 
 ## 🔥🔥🔥 News!!
-* 🏛 **Jan 2026** – [FantasyVLN](https://fantasy-amap.github.io/fantasy-vln/) is accepted by CVPR 2026.
+* 🏛 **Feb 2026** – [FantasyVLN](https://fantasy-amap.github.io/fantasy-vln/) is accepted by CVPR 2026.
+* 📢 **Feb 2026** – We released the inference code and model weights of [FantasyWorld](https://fantasy-amap.github.io/fantasy-world/).
 * 🏛 **Jan 2026** – [FantasyWorld](https://fantasy-amap.github.io/fantasy-world/) is accepted by ICLR 2026.
 * 📢 **Jan 2026** – We released the training and inference code and model weights of [FantasyVLN](https://fantasy-amap.github.io/fantasy-vln/).
 * 🏆 **Dec 2025** - [FantasyWorld](https://fantasy-amap.github.io/fantasy-world/) ranked **1st** on the [WorldScore](https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard) Leaderboard (by **Stanford Prof. Fei-Fei Li's Team**), validating our approach against global state-of-the-art models.
